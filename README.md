@@ -24,9 +24,9 @@
 <ul>"git clone https://github.com/SUBHAPAIN/CPlusPlusFun.git"</ul>
 
 <b>Compile and Run Make sure you have a C++ compiler installed. Open a terminal in the project directory and run:</b>
-<ul>"g++ main.cpp -o CodePlayground
+<ul>"g++ main.cpp -o CPlusPlusFun
   
-./CodePlayground"</ul>
+./CPlusPlusFun"</ul>
 <h4>Requirements:</h4>
 <ul>- C++ compiler (e.g., g++)</ul>
 <h4>Usage:</h4>
