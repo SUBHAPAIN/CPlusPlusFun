@@ -764,6 +764,7 @@ void s_media(){
         pause(5);
     }
     else if (x == 5){
+        countdown(5);
         return;
     }
     goto top;
