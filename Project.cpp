@@ -104,7 +104,7 @@ int main(){
         t_quiz();
     }
     else if (x == 2){
-        cout<<"\nOkay....\n\n\t\t\t,Going To TECH_QUIZ Section.......";
+        cout<<"\nOkay....\n\n\t\t\t,Going To Loop section Section.......";
         countdown(3);
         Design();
     }
